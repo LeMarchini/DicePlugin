@@ -1,0 +1,9 @@
+version: 1.0
+main: com.coodaax.plugin.Main
+name: Test
+description: test
+commands:
+  dice:
+    aliases: [dc]
+    description: Generates a number from 1 to 6, simulating a real dice. Use /dice to roll a number, /dice 2 to roll twice!
+usage: /dice or /dice 2
